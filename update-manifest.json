@@ -1,9 +1,0 @@
-{
-  "version": "2.5.1",
-  "minimum_version": "2.4.3",
-  "download_url": "https://github.com/YOUR-USERNAME/YOUR-REPO/releases/download/v2.5.1/sol-private-cloud-cinematic-2.5.1.zip",
-  "sha256": "REPLACE_WITH_64_CHAR_SHA256",
-  "release_notes": "Bug fixes and reliability improvements.",
-  "required": false,
-  "published_at": "2026-09-17T00:00:00Z"
-}
